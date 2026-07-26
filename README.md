@@ -1,0 +1,3 @@
+# image processing
+
+dataset: https://www.kaggle.com/datasets/vishalsubbiah/pokemon-images-and-types
